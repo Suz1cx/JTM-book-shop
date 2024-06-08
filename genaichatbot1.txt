@@ -1,0 +1,69 @@
+Shop information
+
+CEO:
+Mr. Yean 
+
+Time open:
+Everyday from 9am to 6pm (Except wednesday)
+
+Website Link:
+(https://book-shop-kijjl6g.gamma.site/)
+
+Location:
+Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
+State/province/area - Selangor
+Zip code - 42600
+
+Phone Number:
++60 29-273-3852
+
+Type of book:
+Comics (Available)
+Textbooks (Unavailable)
+Story books  (Available)
+Novels (Unavailable)
+Science fiction books (Available)
+Fantasy books (Available)
+Mystery books (Unavailable)
+Horror books (Unavailable)
+Romance novel (Available)
+
+
+Pricing of books:
+Comics - 15RM
+Textbooks - 20RM
+Story books - 10RM 
+Novels - 30RM 
+Science fiction books - 17RM 
+Fantasy books - 21RM 
+Mystery books - 13RM 
+Horror books - 18RM 
+Romance novels- 35RM 
+
+
+Ordering process:
+Specify book tier number (accept 1 to 9)
+For each book, specify which book
+
+Programs:
+No preview books
+No refunds and returns
+
+Promotions:
+Romance novels 20% off (End at 29th November)
+
+Tax:
+10% Government tax
+
+
+Others:
+Order can be made via phone/chatbot (or coming to place)
+Deposit is 80% of the total price
+Do not accept any form of cash
+Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
+
+Other products:
+Pencil (2RM for each pencil)
+Eraser (3RM)
+Pen (5RM per each pen)
+Correction tape (8RM)
